@@ -1,0 +1,4 @@
+{
+    "rainbow_csv.enable_tooltip": true,
+    "editor.hover.enabled": "onKeyboardModifier"
+}
